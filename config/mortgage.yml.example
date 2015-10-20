@@ -1,0 +1,5 @@
+loan:  100000
+years:     25
+interest:   4.99
+payment:  600
+payment_increase: 0.00

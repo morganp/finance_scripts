@@ -1,0 +1,5 @@
+balance:     0
+years:      35
+interest:    0.05
+payment:  5000 # Annual payment
+payment_increase: 0.02

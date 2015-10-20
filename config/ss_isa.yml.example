@@ -1,0 +1,5 @@
+balance:    0
+years:     17
+interest:   0.05
+payment: 1200 # £100/Month
+payment_increase: 0.0

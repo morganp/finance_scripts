@@ -1,0 +1,4 @@
+ticker:    DLG.DE
+commision:     0.1  # Commission cost per share
+option_cost:  12.30 # Purchase price of option
+option_no:   771
